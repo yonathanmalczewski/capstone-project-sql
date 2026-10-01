@@ -1,0 +1,8 @@
+# Datos: los CSV se descargan de Kaggle (ver README), no se versionan
+*.csv
+capstone_data/
+
+# Archivos de sistema de Windows y macOS
+Thumbs.db
+desktop.ini
+.DS_Store
